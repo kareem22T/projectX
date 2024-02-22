@@ -9021,7 +9021,7 @@ Line 10316:0 Unexpected "}"
   
   .footer__item-title {
     margin-bottom: 12px;
-    color: #10adb0;
+    color: #4ac1f0;
   }
   
   .footer__image {
@@ -16533,6 +16533,7 @@ p + .button-group,
 .vertical-breather {
   padding-top: var(--vertical-breather);
   padding-bottom: var(--vertical-breather);
+  padding-bottom: 0;
 }
 
 .vertical-breather--tight {
@@ -24020,7 +24021,7 @@ input:checked + .popover__choice-label::after,
 
 .footer__item-title {
   margin-bottom: 12px;
-  color: #10adb0;
+  color: #4ac1f0;
 }
 
 .footer__image {
